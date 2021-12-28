@@ -1,0 +1,24 @@
+9,auctioning
+36,brushing hair
+37,brushing teeth
+51,celebrating
+57,clapping
+79,crying
+98,drawing
+100,drinking
+119,exercising arm
+158,hugging
+259,punching person (boxing)
+260,push up
+264,reading book
+282,sailing
+293,shaving legs
+301,shuffling cards
+302,side kick
+304,singing
+305,situp
+316,smoking
+319,sneezing
+320,sniffing
+330,squat
+355,texting
